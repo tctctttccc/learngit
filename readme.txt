@@ -9,4 +9,5 @@ cool and hot
 smart & cute
 abbreviation---abbrev
 abbreviation是缩写的意思
-chage to dev
+chage to dev 
+bug is resolved
