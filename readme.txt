@@ -7,3 +7,4 @@ creating a new branch is quick
 creating anew branch is quick and simple
 cool and hot
 smart & cute
+abbreviation---abbrev
