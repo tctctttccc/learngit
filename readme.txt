@@ -10,4 +10,5 @@ smart & cute
 abbreviation---abbrev
 abbreviation是缩写的意思
 chage to dev 
+test bug
 bug is resolved
