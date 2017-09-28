@@ -8,3 +8,5 @@ creating anew branch is quick and simple
 cool and hot
 smart & cute
 abbreviation---abbrev
+abbreviation是缩写的意思
+
