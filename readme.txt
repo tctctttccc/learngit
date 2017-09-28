@@ -5,4 +5,4 @@ git tracks changess of files
 stupid boss stupid
 creating a new branch is quick
 creating anew branch is quick and simple
-
+cool and hot
