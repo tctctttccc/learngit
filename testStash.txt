@@ -1,3 +1,9 @@
 once upon a time
+
 i have a bug on master
 then i change the bug
+
+I am doing my own work on dev ,
+but I dont wanna to commit ,
+how to do it?
+I did it ,never mind
