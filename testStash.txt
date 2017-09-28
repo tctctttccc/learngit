@@ -4,3 +4,6 @@ I am doing my own work on dev ,
 but I dont wanna to commit ,
 how to do it?
 I did it ,never mind
+
+
+learngit2 is done
